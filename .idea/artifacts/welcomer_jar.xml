@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="welcomer:jar">
+    <output-path>$USER_HOME$/Desktop/pruevas/plugins</output-path>
+    <root id="archive" name="welcomer.jar">
+      <element id="module-output" name="welcomer" />
+    </root>
+  </artifact>
+</component>

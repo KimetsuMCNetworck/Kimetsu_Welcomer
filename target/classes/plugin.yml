@@ -1,0 +1,12 @@
+name: welcomer
+version: '1.0-SNAPSHOT'
+main: wp.indra.welcomer.Welcomer
+api-version: '1.20'
+author: IndraDev
+
+#comandos del plugin aqui
+commands:
+  welcomer:
+    description: Plugin creado para dar bienvenida en el chat y al momento del que jugador entre le aparesca en pantalla
+    aliases:
+      -wc
